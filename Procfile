@@ -1,0 +1,1 @@
+web: gunicorn paw_rescue.wsgi --log-file - 
