@@ -26,7 +26,7 @@ A Django web application for animal rescue and adoption management. This platfor
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/paw_rescue.git
+git clone https://github.com/Aayushibnsl/paw_rescue.git
 cd paw_rescue
 ```
 
